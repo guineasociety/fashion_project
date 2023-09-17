@@ -1,0 +1,2 @@
+
+web: guinicorn projet.wsgi
